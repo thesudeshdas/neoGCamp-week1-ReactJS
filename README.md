@@ -1,6 +1,6 @@
 # NeoGCamp Week 1 - ReactJS Practice Questions
 
-ex0 - simple counter - https://codesandbox.io/s/ex0-a-simple-counter-w7nir
+ex0 - simple counter - https://codesandbox.io/s/ex0-a-simple-counter-w7nir \
 ex1 - character counter (Twitter) - https://codesandbox.io/s/ex1-charecter-counter-twitter-p0u7p
 ex2 - password match - https://codesandbox.io/s/ex2-password-match-5wlpy
 ex3 - alphanumeric password - https://codesandbox.io/s/ex3-alphanumeric-password-iu66i
